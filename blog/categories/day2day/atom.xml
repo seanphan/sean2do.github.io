@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sean2Do - Personal Octopress Site]]></title>
-  <link href="http://sean2do.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Day2Day | Sean2Do - Personal Octopress Site]]></title>
+  <link href="http://sean2do.github.io/blog/categories/day2day/atom.xml" rel="self"/>
   <link href="http://sean2do.github.io/"/>
   <updated>2013-10-29T15:36:59+00:00</updated>
   <id>http://sean2do.github.io/</id>
